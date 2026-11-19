@@ -1,6 +1,6 @@
 {
     "name": "xaniashield/laravel",
-    "description": "Privacy-first, EU-hosted spam protection for Laravel forms. Official Laravel client for the Xania Shield API.",
+    "description": "Privacy-first spam protection for Laravel forms. Official Laravel client for the Xania Shield API.",
     "keywords": ["laravel", "spam", "anti-spam", "spam-protection", "gdpr", "privacy", "honeypot", "bot-detection", "xania-shield"],
     "homepage": "https://xaniashield.com",
     "license": "MIT",

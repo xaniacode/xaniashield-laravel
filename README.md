@@ -1,9 +1,9 @@
 # Xania Shield for Laravel
 
-Privacy-first, EU-hosted spam protection for Laravel forms. This is the official Laravel client for the [Xania Shield](https://xaniashield.com) API — block bots and spam across your forms without CAPTCHAs, without Google, and without sending visitor data to third-party AI services.
+Privacy-first spam protection for Laravel forms. This is the official Laravel client for the [Xania Shield](https://xaniashield.com) API — block bots and spam across your forms without CAPTCHAs, without Google, and without sending visitor data to third-party AI services.
 
 - **No CAPTCHAs** — works invisibly in the background
-- **EU-hosted & GDPR-friendly** — local statistical analysis, no Big Tech
+- **Privacy-first** — statistical analysis on Xania Shield's servers in the United States, no Big Tech ([privacy policy](https://xaniashield.com/privacy))
 - **Fail-open by design** — if the API is unreachable, your forms keep working
 - **Drop-in** — one line per form, with optional honeypot and timing signals
 
